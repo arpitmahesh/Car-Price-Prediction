@@ -1,4 +1,4 @@
-excited to share my recent project where I developed a machine learning model to predict car prices using regression modeling techniques. Leveraging Python and popular libraries like scikit-learn and pandas, I explored various regression algorithms to build a robust predictive model.
+Excited to share my recent project where I developed a machine learning model to predict car prices using regression modeling techniques. Leveraging Python and popular libraries like scikit-learn and pandas, I explored various regression algorithms to build a robust predictive model.
 
 Key Highlights:
 
